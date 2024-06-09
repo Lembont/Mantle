@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+  m_Name: MantleEnemy
+  m_EditorClassIdentifier: 
+  enemyName: Mantle
+  probabilityCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: -0.0000008940697
+      value: 1.0000017
+      inSlope: -0.500812
+      outSlope: -0.500812
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 0.9974365
+      value: 0.500473
+      inSlope: -0.500812
+      outSlope: -0.500812
+      tangentMode: 34
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spawningDisabled: 0
+  numberSpawnedFalloff:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0.34806553
+      value: 0.5018704
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.49951172
+      value: 0.79972076
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  useNumberSpawnedFalloff: 1
+  spawnInGroupsOf: 3
+  requireNestObjectsToSpawn: 0
+  enemyPrefab: {fileID: 7115615282760060981, guid: 1e1fa11ed9aee9bce87f5f5cf5afcabb,
+    type: 3}
+  PowerLevel: 1
+  MaxCount: 3
+  numberSpawned: 3
+  nestsSpawned: 0
+  isOutsideEnemy: 0
+  isDaytimeEnemy: 0
+  normalizedTimeInDayToLeave: 0
+  stunTimeMultiplier: 0
+  doorSpeedMultiplier: 2
+  stunGameDifficultyMultiplier: 0
+  canBeStunned: 1
+  canDie: 1
+  destroyOnDeath: 0
+  canSeeThroughFog: 0
+  pushPlayerForce: 0
+  pushPlayerDistance: 0
+  SizeLimit: 0
+  timeToPlayAudio: 0
+  loudnessMultiplier: 0
+  overrideVentSFX: {fileID: 0}
+  nestSpawnPrefab: {fileID: 0}
+  nestSpawnPrefabWidth: 0
+  useMinEnemyThresholdForNest: 0
+  minEnemiesToSpawnNest: 0
+  hitBodySFX: {fileID: 0}
+  hitEnemyVoiceSFX: {fileID: 0}
+  deathSFX: {fileID: 0}
+  stunSFX: {fileID: 0}
+  miscAnimations: []
+  audioClips:
+  - {fileID: 8300000, guid: 7b2efbeaf438aca4d93f22defb64910a, type: 3}
+  - {fileID: 8300000, guid: a2c7653dfdcd256429d8a2a584429978, type: 3}

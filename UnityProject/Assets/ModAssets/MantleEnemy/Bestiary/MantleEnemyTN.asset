@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
+  m_Name: MantleEnemyTN
+  m_EditorClassIdentifier: 
+  displayText: 'Mantle
+
+
+    Sigurd''s danger level: 5%
+
+
+    Scientific name: Mantleus
+    terranova
+
+
+    Mantleus terranova are small, non-humanoid creatures known for
+    their playful and mischievous nature. Although they are not aggressive, they
+    love to play by making objects fly everywhere. Unfortunately, they do not always
+    realize their strength and can inadvertently cause harm while playing. However,
+    they do not pose a significant danger around doors, heights, and similar obstacles.
+    Mantleus terranova primarily rely on their sight to navigate and interact with
+    their surroundings. Their cheerful behavior and unique appearance make them endearing
+    despite their clumsiness.'
+  terminalEvent: 
+  clearPreviousText: 1
+  maxCharactersToType: 649
+  buyItemIndex: -1
+  isConfirmationNode: 0
+  buyRerouteToMoon: -1
+  displayPlanetInfo: -1
+  lockedInDemo: 0
+  shipUnlockableID: -1
+  buyUnlockable: 0
+  returnFromStorage: 0
+  itemCost: 0
+  creatureFileID: 7014
+  creatureName: Mantle
+  storyLogFileID: -1
+  overrideOptions: 0
+  acceptAnything: 0
+  terminalOptions: []
+  playClip: {fileID: 0}
+  playSyncedClip: 2
+  displayTexture: {fileID: 0}
+  displayVideo: {fileID: 32900000, guid: 9ba98ec098c4ce549a5bf21fb28db14f, type: 3}
+  loadImageSlowly: 1
+  persistentImage: 0

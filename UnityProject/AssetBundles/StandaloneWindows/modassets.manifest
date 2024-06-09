@@ -1,0 +1,94 @@
+ManifestFileVersion: 0
+CRC: 3924688609
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 499abdf48d8f52446d152861d8dc6795
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0ab2d594a0e220b824cd7790adabdc29
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 499abdf48d8f52446d152861d8dc6795
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 65d3fcb39dd67306e9bb17a603308070, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 04f75356a7e9c978bddc7d568e58a50b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3c36d0a92cbb1f26a39169ef0eae393a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6d7127b8f98ca8ec9896b384a71d39a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0e80ae96b3eb9177eea5c8f9dadbcda1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5a57f767e5e46a458fc5d3c628d0cbb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3cecf05b78b173605122a700874719c, type: 3}
+- Class: 114
+  Script: {fileID: 1081754514, guid: 306bfa93ab8c8bb45bae45e42cb90a28, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: AISearchRoutine
+- AssemblyName: Assembly-CSharp
+  ClassName: EnemyBehaviourState
+- AssemblyName: Assembly-CSharp
+  ClassName: NavSizeLimit
+Assets:
+- Assets/ModAssets/MantleEnemy/Animations/Get_Hit.anim
+- Assets/ModAssets/MantleEnemy/Audio/Roam.mp3
+- Assets/ModAssets/MantleEnemy/Audio/mantle_footstep.wav
+- Assets/ModAssets/MantleEnemy/Bestiary/MantleEnemyTK.asset
+- Assets/ModAssets/MantleEnemy/Animations/Idle.anim
+- Assets/ModAssets/MantleEnemy/Animations/Dead.anim
+- Assets/ModAssets/MantleEnemy/Materials/New Material.mat
+- Assets/ModAssets/MantleEnemy/Animations/Attack(3).anim
+- Assets/ModAssets/MantleEnemy/Audio/Mantle-roar-2.mp3
+- Assets/ModAssets/MantleEnemy/MantleEnemy.asset
+- Assets/ModAssets/MantleEnemy/Animations/Walk.anim
+- Assets/ModAssets/MantleEnemy/MantleAnimator.controller
+- Assets/ModAssets/MantleEnemy/enemyPrefab.prefab
+- Assets/ModAssets/MantleEnemy/Bestiary/MantleEnemyTN.asset
+- Assets/ModAssets/MantleEnemy/Bestiary/MantleEnemySpin.webm
+Dependencies: []
